@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 ## Soy un estudiante de la Universidad Nacional de Rio Negro, en la carrera de Ingerniería en Computación
-# Este es mi perfil de github, lo creé hace tiempo para probar un código que me permitia crear deep fakes de una canción 🤣
+### Este es mi perfil de github, lo creé hace tiempo para probar un código que me permitia crear deep fakes de una canción 🤣
 <!--
 **ValentinJM/valentinjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
